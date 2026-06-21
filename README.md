@@ -2,7 +2,7 @@
 
 **`` Front-End Developer ``** --- **``Rumo ao Full Stack``**
 
-Me chamo Wesley Caia Mendes da Silva, tenho 20 anos, sou residente do estado de São Paulo, na cidade de Americana. Concluí o ensino médio na escola técnica ETEC Polivalente de Americana, com o curso técnico Desenvolvimento de Sistemas, em 2022. Atualmente, estou cursando Ciência da Computação na faculdade FAM, em Americana.
+Me chamo Weslley Kayan Mendes da Silva, tenho 20 anos, sou residente do estado de São Paulo, na cidade de Americana. Concluí o ensino médio na escola técnica ETEC Polivalente de Americana, com o curso técnico Desenvolvimento de Sistemas, em 2022. Atualmente, estou cursando Ciência da Computação na faculdade FAM, em Americana.
 
 Me desenvolvo rápido e não tenho hesitação em buscar algo quando não sei, descobrir algo novo ou pedir ajuda. Venho me capacitando todo dia para me tornar um profissional full stack. Já tenho habilidades de front-end desenvolvidas e venho desenvolvendo habilidades back-end e computação em nuvem, mais precisamente na Azure, da Microsoft.
 
