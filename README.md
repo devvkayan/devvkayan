@@ -8,10 +8,10 @@ Me desenvolvo rápido e não tenho hesitação em buscar algo quando não sei, d
 
  <p align="left">
     <a href="https://github.com/devvkayan?tab=followers">
-        <img alt="Seguidores" title="Siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/devvkayan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github-add&label=SEGUIDORES&logoColor=white">
+        <img alt="Seguidores" title="Siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/devvkayan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github-add&label=SEGUIDORES&logoColor=white&v=2">
     </a>
     <a href="https://github.com/devvkayan?tab=repositories">
-        <img alt="total stars" title="Total estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/devvkayan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+        <img alt="total stars" title="Total estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/devvkayan?color=55960c&style=for-the-badge&labelColor=488207&logo=star&v=2"/>
     </a>
     <a href="https://www.linkedin.com/in/weslleykayanms/">
         <img alt="Linkedin" title="Siga no LInkedin" src="https://custom-icon-badges.demolab.com/badge/-blue?style=for-the-badge&logo=white-add&label=Linkedin">
