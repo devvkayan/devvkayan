@@ -82,7 +82,7 @@ Me desenvolvo rápido e não tenho hesitação em buscar algo quando não sei, d
 <img 
     align="left" 
     alt="SQL" 
-    title="Python"
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
@@ -106,7 +106,7 @@ Me desenvolvo rápido e não tenho hesitação em buscar algo quando não sei, d
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvkayan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvkayan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=2" 
   />
 
 </p>
