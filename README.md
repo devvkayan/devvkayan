@@ -31,6 +31,7 @@ Me desenvolvo rápido e não tenho hesitação em buscar algo quando não sei, d
     style="padding-right: 10px;" 
     src="ttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/npm/nodejs@0.0.0/1/getmodule.min.js" 
 />
+
    <img 
     align="left" 
     alt="HTML"
@@ -39,6 +40,7 @@ Me desenvolvo rápido e não tenho hesitação em buscar algo quando não sei, d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -47,6 +49,7 @@ Me desenvolvo rápido e não tenho hesitação em buscar algo quando não sei, d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -55,6 +58,7 @@ Me desenvolvo rápido e não tenho hesitação em buscar algo quando não sei, d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="React"
@@ -63,6 +67,7 @@ Me desenvolvo rápido e não tenho hesitação em buscar algo quando não sei, d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
 <img 
     align="left" 
     alt="PHP" 
@@ -71,6 +76,7 @@ Me desenvolvo rápido e não tenho hesitação em buscar algo quando não sei, d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
@@ -79,6 +85,7 @@ Me desenvolvo rápido e não tenho hesitação em buscar algo quando não sei, d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -87,6 +94,7 @@ Me desenvolvo rápido e não tenho hesitação em buscar algo quando não sei, d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
     alt="SQL" 
