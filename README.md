@@ -1,6 +1,6 @@
 # Weslley Silva
 
-**`` Front-End Developer ``** --- **``Rumo ao Full Stack``**
+**`` Full Stack Developer ``** --- **`` Eu quero o sucesso, nada mais, nada menos.``**
 
 Me chamo Weslley Kayan Mendes da Silva, tenho 20 anos, sou residente do estado de São Paulo, na cidade de Americana. Concluí o ensino médio na escola técnica ETEC Polivalente de Americana, com o curso técnico Desenvolvimento de Sistemas, em 2022. Atualmente, estou cursando Ciência da Computação na faculdade FAM, em Americana.
 
